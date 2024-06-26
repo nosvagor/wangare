@@ -1,0 +1,10 @@
+[db]
+driver = "postgres"
+name = "your_db_name"
+password = "your_password"
+port = 5432
+host = "localhost"
+user = "your_user"
+
+[pg]
+version = "16.3"
